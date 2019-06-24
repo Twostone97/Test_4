@@ -133,3 +133,9 @@ nav.menu a:hover {
     background-color: #500c0c;
     color: #ffffff;
 }
+
+.roster {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

@@ -10,22 +10,22 @@
         Is there an war? A planet about to explode? Send a starfleet captain right into the supernova! They will be happy to go.
     </div>
 
-    <a href="#" class="report">Assign a captain</a>
+    <a href="/captains" class="report">Assign a captain</a>
 
     <div class="captains">
-        <a href="#">
+        <a href="/captain/kirk">
             <img src="img/kirk.jpg" alt="">
         </a>
-        <a href="#">
+        <a href="/captain/picard">
             <img src="img/picard.jpg" alt="">
         </a>
-        <a href="#">
+        <a href="/captain/janeway">
             <img src="img/janeway.jpg" alt="">
         </a>
-        <a href="#">
+        <a href="/captain/archer">
             <img src="img/archer.jpg" alt="">
         </a>
-        <a href="#">
+        <a href="/captain/georgiou">
             <img src="img/georgiou.jpg" alt="">
         </a>
     </div>

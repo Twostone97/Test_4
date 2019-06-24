@@ -29,6 +29,8 @@
 
         <form action="" method="post">
 
+            @csrf
+
             <input type="text" name="subject" placeholder="Cause for assignment">
 
             <textarea name="description" placeholder="Thorough description"></textarea>
